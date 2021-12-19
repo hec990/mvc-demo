@@ -1,0 +1,7 @@
+.page div {
+  width: 50vw;
+  height: 50vh;
+  border: 1px solid black;
+}#app1 {
+    border: 1px solid red;
+}

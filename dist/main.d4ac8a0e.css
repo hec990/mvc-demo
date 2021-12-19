@@ -1,0 +1,16 @@
+body {
+  overflow: hidden;
+}
+#page {
+  display: flex;
+  flex-wrap: wrap;
+}
+#page section {
+  width: 50vw;
+  height: 50vh;
+  border: 1px solid black;
+}*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
